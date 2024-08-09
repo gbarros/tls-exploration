@@ -1,0 +1,7 @@
+[submodule "simple_verifier_dapp/verifier"] 
+  path = simple_verifier_dapp/verifier 
+  url = https://github.com/tlsnotary/tlsn.git
+
+[submodule "tlsn-js"] 
+  path = tlsn-js 
+  url = https://github.com/tlsnotary/tlsn-js    
